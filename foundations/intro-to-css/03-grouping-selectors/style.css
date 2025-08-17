@@ -1,0 +1,16 @@
+.click{
+    background-color: black;
+    color: #fff;
+}
+
+.yesclick{
+    background-color: yellow;
+    color: #000;
+}
+
+.click , 
+.yesclick{
+font-size: 28px;
+font-family: 'Helvetica', 'Times New Roman', sans-serif;
+border: 3px solid gray;
+}
